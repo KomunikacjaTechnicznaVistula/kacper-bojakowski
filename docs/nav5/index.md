@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Nav4
+title: Nav5
 nav_order: 5
+description: "Here be description!"
 has_children: true
 ---
 
-# Navigation item 4 under introduction
+# Nav5
