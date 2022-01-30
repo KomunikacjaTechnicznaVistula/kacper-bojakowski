@@ -1,6 +1,6 @@
 ---
 layout: default
-title: One-Piece Boards
+title: Nav3parent1child
 nav_order: 1
 parent: Nav3
 ---
