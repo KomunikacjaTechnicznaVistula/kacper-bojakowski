@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nav4parent2chold
+title: Nav4parent2child
 nav_order: 2
 parent: Nav4
 ---
