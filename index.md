@@ -6,8 +6,4 @@ description: "Here be description!"
 permalink: /
 ---
 
-# First level header
-
-## Second level header
-
-### Third level header
+# Introduction
