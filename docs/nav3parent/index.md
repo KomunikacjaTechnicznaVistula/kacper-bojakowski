@@ -6,8 +6,4 @@ description: "Here be description!"
 has_children: true
 ---
 
-# First level header
-
-## Second level header
-
-### Third level header
+# Navigation item 3 under introduction
