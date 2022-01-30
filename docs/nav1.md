@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nav1
-nav_order: 1
+nav_order: 2
 description: "Here be description!"
 permalink: /
 ---
