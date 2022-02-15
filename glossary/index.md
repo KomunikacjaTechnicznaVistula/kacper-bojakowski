@@ -6,7 +6,7 @@ nav_order: 4
 
 # Glossary
 
-Here is a list of technical terms and abbreviations (in parentheses) that appear in the previous sections.
+Here is a list of technical terms and abbreviations (in parentheses) that appear in this document.
 
 **Acoustic adaptation** – the process of optimizing an area for the best listening experience by using special panels and other fittings that diffuse or absorb certain frequencies.  
 **Bass** – low-register sounds in the audible spectrum, responsible for the depth and "the oomph" in a song, corresponding with instruments such as drums; generally below 250hz.  
