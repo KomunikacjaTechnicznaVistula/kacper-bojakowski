@@ -27,3 +27,7 @@ Here is a list of technical terms and abbreviations (in parentheses) that appear
 **Target curve** – the shape of the curve (as represented on a frequency response graph) a given sound-outputting device is intended to produce in measurements.  
 **Tonality** – the character of a piece of music, determined by the arrangement of sounds, the instruments used, etc.; also: a mental shortcut for "sound signature".  
 **Treble** – high-register sounds in the audible spectrum, responsible for clarity, sharpness, and "the spark" in a song, corresponding with instruments such as flutes or cymbals; generally above 2000hz.  
+
+---
+
+*Next section: [Links](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/links/#links)*
