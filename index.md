@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction
-has_toc: true
+toc: true
 nav_order: 1
 ---
 
