@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Nav2
+title: Manual
 nav_order: 2
-description: "Here be description!"
+has_children: true
 ---
 
-# Nav2
+# Manual
+
+In this section, you will learn step by step how to use Equalizer APO to tune your headphones towards the Harman Target. You will also find here solutions to the most common problems encountered in the process.
