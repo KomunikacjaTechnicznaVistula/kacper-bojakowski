@@ -24,7 +24,7 @@ In this guide, you are going to learn how to improve the sound of your headphone
     * [Troubleshooting](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/docs/troubleshooting/)
        * [I can only set values with accuracy to 0.5.]()
        * [I can't hear the difference when I click *ON/OFF*.]()
-       * [The volume is lower after equalization.]()
+       * [The volume seems lower after equalization.]()
        * [I don't like the sound after equalization.]()
        * [How can I make this work on a Mac?]()
 * [Glossary](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/glossary/)
