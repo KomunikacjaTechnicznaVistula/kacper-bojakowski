@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: kb-layout
 title: What is equalization?
 grand_parent: Theory
 parent: Equalization

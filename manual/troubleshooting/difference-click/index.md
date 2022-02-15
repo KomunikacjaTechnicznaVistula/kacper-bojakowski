@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: kb-layout
 title: I can't hear the difference when I click "ON/OFF".
 grand_parent: Manual
 parent: Troubleshooting

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: kb-layout
 title: Troubleshooting
 parent: Manual
 has_children: true

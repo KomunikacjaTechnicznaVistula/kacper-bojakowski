@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: kb-layout
 title: Step-by-step guide
 parent: Manual
 nav_order: 1

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: kb-layout
 title: Introduction
 nav_order: 1
 ---

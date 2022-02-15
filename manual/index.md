@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: kb-layout
 title: Manual
 has_children: true
 nav_order: 3

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: kb-layout
 title: Links
 nav_order: 5
 ---

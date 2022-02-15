@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: kb-layout
 title: Won't equalization distort the sound?
 grand_parent: Theory
 parent: Equalization

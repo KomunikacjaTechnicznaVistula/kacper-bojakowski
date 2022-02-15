@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: kb-layout
 title: Harman target
 parent: Theory
 nav_order: 1

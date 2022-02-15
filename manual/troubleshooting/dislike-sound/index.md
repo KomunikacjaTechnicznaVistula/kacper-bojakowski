@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: kb-layout
 title: I don't like the sound after equalization.
 grand_parent: Manual
 parent: Troubleshooting

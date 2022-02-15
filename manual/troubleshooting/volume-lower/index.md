@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: kb-layout
 title: The volume seems lower after equalization.
 grand_parent: Manual
 parent: Troubleshooting

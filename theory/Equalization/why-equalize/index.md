@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: kb-layout
 title: Why would I want to equalize?
 grand_parent: Theory
 parent: Equalization

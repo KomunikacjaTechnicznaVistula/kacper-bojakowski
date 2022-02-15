@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: kb-layout
 title: How to do this properly?
 grand_parent: Theory
 parent: Equalization

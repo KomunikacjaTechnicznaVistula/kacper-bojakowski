@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: kb-layout
 title: Why don't headphones come already equalized?
 grand_parent: Theory
 parent: Equalization

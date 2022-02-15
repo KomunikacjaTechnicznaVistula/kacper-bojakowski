@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: kb-layout
 title: Glossary
 nav_order: 4
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: kb-layout
 title: I can only set values with accuracy to 0.5.
 grand_parent: Manual
 parent: Troubleshooting
