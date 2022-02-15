@@ -5,7 +5,7 @@ parent: Manual
 nav_order: 1
 ---
 
-# Step-by-step guide
+## Step-by-step guide
 
 1. Go to the Reddit page for [oratory1990's list of presets](https://www.reddit.com/r/oratory1990/wiki/index/list_of_presets).
 2. Find your headphone model. If you can't see your headphones on the list, ask oratory1990 directly through Reddit – he might consider testing them and adding the preset in the future.
