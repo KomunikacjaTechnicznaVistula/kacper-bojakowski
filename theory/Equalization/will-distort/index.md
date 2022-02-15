@@ -12,4 +12,4 @@ Not if it's properly implemented. Professional EQ software affects drivers of yo
 
 ---
 
-*Next topic: [How to do this properly?](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/Equalization/how-properly/#how-to-do-this-properly)*
+*Next topic: [How to do this properly?](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/Equalization/how-properly/)*
