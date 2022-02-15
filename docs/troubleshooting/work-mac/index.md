@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Troubleshooting
+title: How can I make this work on a Mac?
 grand_parent: Manual
 parent: Troubleshooting
 nav_order: 5
