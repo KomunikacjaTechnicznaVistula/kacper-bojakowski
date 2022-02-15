@@ -10,7 +10,7 @@ In this guide, you are going to learn how to improve the sound of your headphone
 
 ## Table of contents
 
-* <a style="pointer-events: none" href="https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/#introduction">Introduction</a> ← You are here!
+* <a style="pointer-events: none" href="https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/#introduction" alt="Introduction">Introduction</a> ← You are here!
 * [Theory](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/#theory)
     * [Harman target]()
     * [Equalization]()
