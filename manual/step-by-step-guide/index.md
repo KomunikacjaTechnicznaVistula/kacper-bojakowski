@@ -15,7 +15,7 @@ nav_order: 1
 5. Open and inspect the PDF file you have downloaded. You should see various graphs and settings. The first two graphs show you the comparison of your headphones' native frequency response against the Harman target curve – before and after equalization. At the bottom of the page you will see filter settings which you will apply later.
 ![Comparison](../../images/comparison.jpg)  
 ![Filter settings](../../images/filtersettings.jpg)  
-1. Download [Equalizer APO](https://sourceforge.net/projects/equalizerapo/). If you are on macOS, check [the troubleshooting section](#troubleshooting) of this guide.
+1. Download [Equalizer APO](https://sourceforge.net/projects/equalizerapo/). If you are on macOS, check [the troubleshooting section](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/troubleshooting/#troubleshooting) of this guide.
 2. Install Equalizer APO. At one point during the installation, you will have to choose the sound driver you use. If unsure, check in the manual for your soundcard/DAC.
 3. Download and install [Peace GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/). Equalizer APO is an equalization environment with a very simple graphical interface; to navigate through the EQ comfortably, you will need a better GUI – such as Peace.
 4.  Open Peace and choose *Full interface*; the simple one doesn't offer enough settings for your needs. In the end, your Peace should look something like this:  
