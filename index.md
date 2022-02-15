@@ -16,7 +16,7 @@ In this guide, you are going to learn how to improve the sound of your headphone
     * [Equalization]()
        * [What is equalization?]()
        * [Why would I want to equalize?]()
-       * [Why aren't headphones already produced like that?]()
+       * [Why don't headphones come already equalized?]()
        * [Won't equalization distort the sound?]()
        * [How to do this properly?]()
 * [Manual]()
