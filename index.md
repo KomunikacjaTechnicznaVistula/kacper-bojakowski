@@ -8,7 +8,7 @@ nav_order: 1
 
 # Introduction
 
-In this guide, you will learn how to improve the sound of your headphones for free by tuning them towards the Harman target curve. Along the way, you will also learn about equalization in general, and – hopefully – enrich your hobby by developing a better understanding of audio gear and sound-related software. If you want to skip the theory and jump right into the guide, click [here](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/step-by-step-guide/).
+In this guide, you will learn how to improve the sound of your headphones for free by tuning them towards the Harman target curve. Along the way, you will also learn about equalization in general, and – hopefully – enrich your hobby by developing a better understanding of audio gear and sound-related software. If you want to skip the theory and jump right into the guide, click [here](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/step-by-step-guide).
 
 ## Table of contents
 
@@ -22,8 +22,8 @@ In this guide, you will learn how to improve the sound of your headphones for fr
        * [Won't equalization distort the sound?](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/Equalization/will-distort)
        * [How to do this properly?](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/Equalization/how-properly)
 * [Manual]()
-    * [**Step-by-step guide**](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/step-by-step-guide/)
-    * [Troubleshooting](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/troubleshooting/)
+    * [**Step-by-step guide**](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/step-by-step-guide)
+    * [Troubleshooting](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/troubleshooting)
        * [I can only set values with accuracy to 0.5.](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/troubleshooting/values-accuracy)
        * [I can't hear the difference when I click "ON/OFF".](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/troubleshooting/difference-click)
        * [The volume seems lower after equalization.](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/troubleshooting/volume-lower)
