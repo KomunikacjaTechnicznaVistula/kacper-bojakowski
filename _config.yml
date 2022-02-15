@@ -5,8 +5,6 @@ remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
 
 color_scheme: vistula
 
-logo: "/images/eq-logo.jpg"
-
 aux_links:
   "Source repository on GitHub":
     - "//github.com/KomunikacjaTechnicznaVistula/kacper-bojakowski"
