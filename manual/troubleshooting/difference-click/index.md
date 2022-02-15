@@ -1,11 +1,11 @@
 ---
 layout: default
-title: I can't hear the difference when I click *ON/OFF*.
+title: I can't hear the difference when I click "ON/OFF".
 grand_parent: Manual
 parent: Troubleshooting
 nav_order: 2
 ---
 
-### I can't hear the difference when I click *ON/OFF*.
+### I can't hear the difference when I click "ON/OFF".
 
 Make sure your music player uses the same output (drivers/ device) as your APO equalizer. You will usually find this option under Playback tab in the settings, although it may vary between players.
