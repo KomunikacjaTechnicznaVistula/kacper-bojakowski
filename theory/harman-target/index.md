@@ -7,7 +7,7 @@ nav_order: 1
 
 ## Harman target
 
-![Harman target curve](images/harmantarget.jpg)  
+![Harman target curve](../../images/harmantarget.jpg)  
 
 ### What is the Harman target?
 
