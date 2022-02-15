@@ -12,4 +12,4 @@ The purpose of equalization is to correct the sound signature that is natively p
 
 ---
 
-*Next topic: [Why don't headphones come already equalized?](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/Equalization/why-produce/#why-dont-manufacturers-produce-already-equalized-heaphones)*
+*Next topic: [Why don't headphones come already equalized?](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/Equalization/why-produce/)*
