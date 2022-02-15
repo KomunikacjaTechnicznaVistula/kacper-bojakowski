@@ -24,3 +24,7 @@ nav_order: 1
 ![Snap to dB](../../images/snaptodb.jpg)  
 6.  Adjust the preamp gain (*Pre Amplifying*, at the top), and all the bands for filter type, frequency, gain, and q-factor values, according to the PDF file for your preset. Don't worry if there are more bands in the equalizer than in the instructions for your preset – adjust only as many bands as you need (most of oratory1990's presets are for 10 bands), and set gain value to 0 for the rest. Alternatively, you can delete the extra bands completely by clicking on the minus sign on the right.
 7.  Play a song in your favourite music player and check if you hear the difference when you click on the *ON/OFF* switch in the top right corner of Peace APO.
+
+---
+
+*Next topic: [Troubleshooting](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/troubleshooting/#troubleshooting)*
