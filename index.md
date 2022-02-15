@@ -10,8 +10,15 @@ In this guide, you are going to learn how to improve the sound of your headphone
 
 ## Table of contents
 
-1. [Introduction](#introduction)
-2. [Theory](#theory)
-3. [Manual](#manual)
-4. [Glossary](#glossary)
-5. [Links](#links)
+* [Introduction](#introduction)
+* [Theory](#theory)
+    * [Harman target](#harman-target)
+    * [Equalization](#equalization)
+       * [What is equalization?]()
+       * [Why would I want to equalize?]()
+       * [Why don't manufacturers produce already equalized headphones?]()
+       * [Won't equalization distort the sound?]()
+       * [How to do this properly?]()
+* [Manual](#manual)
+* [Glossary](#glossary)
+* [Links](#links)
