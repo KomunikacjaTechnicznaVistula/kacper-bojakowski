@@ -10,8 +10,6 @@ nav_order: 1
 
 In this guide, you will learn how to improve the sound of your headphones for free by tuning them towards the Harman target curve. Along the way, you will also learn about equalization in general, and – hopefully – enrich your hobby by developing a better understanding of audio gear and sound-related software. If you want to skip the theory and jump right into the guide, click [here](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/step-by-step-guide/).
 
-*Next topic: [Theory](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/)*
-
 ## Table of contents
 
 * <a style="pointer-events: none;" href="https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/#introduction" alt="Introduction">Introduction</a> ← You are here!
@@ -33,3 +31,7 @@ In this guide, you will learn how to improve the sound of your headphones for fr
        * [How can I make this work on a Mac?](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/troubleshooting/work-mac/#how-can-i-make-this-work-on-a-mac)
 * [Glossary](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/glossary/)
 * [Links](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/links/)
+
+---
+
+*Next topic: [Theory](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/)*
