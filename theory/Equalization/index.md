@@ -6,6 +6,6 @@ has_children: true
 nav_order: 2
 ---
 
-# Theory
+# Equalization
 
-This section briefly explains the idea behind the Harman target curve – and behind headphone equalization in general.
+This section covers the very basics of headphone equalization: what it is, why it's done, and how it works.
