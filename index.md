@@ -4,6 +4,8 @@ title: Introduction
 nav_order: 1
 ---
 
+![equalizer](images/eq-logo.jpg)
+
 # Introduction
 
 In this guide, you will learn how to improve the sound of your headphones for free by tuning them towards the Harman target curve. Along the way, you will also learn about equalization in general, and – hopefully – enrich your hobby by developing a better understanding of audio gear and sound-related software. If you want to skip the theory and jump right into the guide, click [here](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/step-by-step-guide/).
