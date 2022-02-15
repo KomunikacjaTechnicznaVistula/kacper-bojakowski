@@ -34,4 +34,4 @@ In this guide, you will learn how to improve the sound of your headphones for fr
 
 ---
 
-*Next topic: [Theory](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/)*
+*Next section: [Theory](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/)*
