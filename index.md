@@ -12,7 +12,7 @@ In this guide, you are going to learn how to improve the sound of your headphone
 
 * <a style="pointer-events: none;" href="https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/#introduction" alt="Introduction">Introduction</a> ← You are here!
 * [Theory](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/#theory)
-    * [Harman target](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/Harman%20target/#harman-target)
+    * [Harman target](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/harman-target/#harman-target)
     * [Equalization](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/Equalization/#equalization)
        * [What is equalization?](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/Equalization/what-equalization/#what-is-equalization)
        * [Why would I want to equalize?](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/Equalization/why-equalize/#why-would-i-want-to-equalize)
