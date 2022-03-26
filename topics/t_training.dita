@@ -19,7 +19,7 @@
                 <cmd>Snap your fingers at another time as you go to the kitchen.</cmd>
             </step>
         </steps>
-        <postreq id="postreq_j2c_qyt_zsb">Now observe as your cat follows you to the kitchen
-            whenever you snap your fingers.</postreq>
+        <postreq id="postreq_j2c_qyt_zsb">Now observe your cat follow you to the kitchen whenever
+            you snap your fingers.</postreq>
     </taskbody>
 </task>
