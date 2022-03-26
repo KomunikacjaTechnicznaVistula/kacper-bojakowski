@@ -5,8 +5,8 @@
     <shortdesc>Your cat can perform tricks for a treat.</shortdesc>
     <taskbody>
         <context>
-            <p>Cats can be trained through positive conditioning. Follow the steps below to teach
-                your cat how to follow you to the kitchen.</p>
+            <p>Cats can be trained through positive conditioning. Follow these steps to teach your
+                cat how to follow you to the kitchen.</p>
         </context>
         <steps>
             <step importance="optional">
