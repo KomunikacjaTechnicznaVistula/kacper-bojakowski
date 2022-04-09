@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
-   <appContext helpID="c_panda_wielka" path="topics/c_general_information.html"/>
-   <appContext helpID="c_wystepowanie_i_srodowisko" path="topics/c_cat_breeds.html"/>
-   <appContext helpID="c_odzywianie" path="topics/c_how_to_get_a_cat.html"/>
-   <appContext helpID="c_rozmiary_pandy_wielkiej"
-               path="topics/c_maintenance_cost.html"/>
-   <appContext helpID="tryb_zycia_pandy_wielkiej" path="topics/c_castration.html"/>
-   <appContext helpID="c_how_to_understand_your_cat"
-               path="topics/c_how_to_understand_your_cat.html"/>
-   <appContext helpID="c_zagrozenie_i_ochrona" path="topics/c_feeding.html"/>
-   <appContext helpID="c_hygiene" path="topics/c_hygiene.html"/>
-   <appContext helpID="c_logotyp_wwf" path="topics/c_play.html"/>
-   <appContext helpID="t_zapobieganie_wymieraniu_pandy_wielkiej"
-               path="topics/t_training.html"/>
-   <appContext helpID="c_health_problems" path="topics/c_health_problems.html"/>
-   <appContext helpID="c_zagrozenie_i_ochrona" path="topics/c_feeding.html"/>
-   <appContext helpID="c_how_to_understand_your_cat"
-               path="topics/c_how_to_understand_your_cat.html"/>
-   <appContext helpID="c_zagrozenie_i_ochrona" path="topics/c_feeding.html"/>
-   <appContext helpID="t_zapobieganie_wymieraniu_pandy_wielkiej"
-               path="topics/t_training.html"/>
+   <appContext helpID="c_introduction" path="topics/c_introduction-1.html"/>
+   <appContext helpID="t_operating" path="topics/t_operating-1.html"/>
+   <appContext helpID="t_operating" path="topics/t_operating-1-1.html"/>
+   <appContext helpID="r_recipes" path="topics/r_recipes.html"/>
+   <appContext helpID="c_introduction" path="topics/c_introduction-2.html"/>
+   <appContext helpID="t_operating" path="topics/t_assembling-1.html"/>
+   <appContext helpID="t_operating" path="topics/t_cleaning_steam-1.html"/>
+   <appContext helpID="t_operating" path="topics/t_cleaning_filter-1.html"/>
+   <appContext helpID="t_operating" path="topics/t_operating-2.html"/>
+   <appContext helpID="t_operating" path="topics/t_assembling-2.html"/>
+   <appContext helpID="t_operating" path="topics/t_cleaning_steam-2.html"/>
+   <appContext helpID="t_operating" path="topics/t_cleaning_filter-2.html"/>
+   <appContext helpID="t_operating" path="topics/t_operating-3.html"/>
+   <appContext helpID="r_glossary" path="glossary/r_glossary.html#r_glossary"/>
+   <appContext helpID="g_brew_head" path="glossary/r_glossary.html#g_brew_head"/>
+   <appContext helpID="g_filter_holder"
+               path="glossary/r_glossary.html#g_filter_holder"/>
+   <appContext helpID="g_steam_wand" path="glossary/r_glossary.html#g_steam_wand"/>
+   <appContext helpID="g_portafilter" path="glossary/r_glossary.html#g_portafilter"/>
+   <appContext helpID="unique_1833358404"
+               path="glossary/r_glossary.html#unique_1833358404"/>
 </map>

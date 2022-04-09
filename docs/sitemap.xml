@@ -1,43 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>Topics/c_panda_wielka.html</loc>
-      <lastmod>2022-03-24T08:07:48Z</lastmod>
+      <loc>topics/c_introduction-1.html</loc>
+      <lastmod>2022-03-26T02:53:15Z</lastmod>
    </url>
    <url>
-      <loc>Topics/c_wystepowanie_i_srodowisko.html</loc>
-      <lastmod>2022-03-24T08:07:48Z</lastmod>
+      <loc>topics/t_operating-1.html</loc>
+      <lastmod>2022-03-26T02:53:15Z</lastmod>
    </url>
    <url>
-      <loc>Topics/c_odzywianie.html</loc>
-      <lastmod>2022-03-24T08:07:48Z</lastmod>
+      <loc>topics/t_operating-1-1.html</loc>
+      <lastmod>2022-03-26T02:53:15Z</lastmod>
    </url>
    <url>
-      <loc>Topics/c_rozmiary_pandy_wielkiej.html</loc>
-      <lastmod>2022-03-24T08:07:48Z</lastmod>
+      <loc>topics/r_recipes.html</loc>
+      <lastmod>2022-03-26T02:53:15Z</lastmod>
    </url>
    <url>
-      <loc>Topics/tryb_zycia_pandy_wielkiej.html</loc>
-      <lastmod>2022-03-24T08:07:48Z</lastmod>
+      <loc>topics/c_introduction-2.html</loc>
+      <lastmod>2022-03-26T02:53:15Z</lastmod>
    </url>
    <url>
-      <loc>Topics/c_zagrozenie_i_ochrona.html</loc>
-      <lastmod>2022-03-24T08:07:48Z</lastmod>
+      <loc>topics/t_assembling-1.html</loc>
+      <lastmod>2022-03-26T02:53:15Z</lastmod>
    </url>
    <url>
-      <loc>Topics/c_przyczyny_wymierania_pandy_wielkiej.html</loc>
-      <lastmod>2022-03-24T08:07:48Z</lastmod>
+      <loc>topics/t_cleaning_steam-1.html</loc>
+      <lastmod>2022-03-26T02:53:15Z</lastmod>
    </url>
    <url>
-      <loc>Topics/t_zapobieganie_wymieraniu_pandy_wielkiej.html</loc>
-      <lastmod>2022-03-24T08:07:48Z</lastmod>
+      <loc>topics/t_cleaning_filter-1.html</loc>
+      <lastmod>2022-03-26T02:53:15Z</lastmod>
    </url>
    <url>
-      <loc>Topics/c_wybrane_ogrody_zoologiczne_w_ktorych_zyja_pandy_wielkie.html</loc>
-      <lastmod>2022-03-24T08:07:48Z</lastmod>
+      <loc>topics/t_operating-2.html</loc>
+      <lastmod>2022-03-26T02:53:15Z</lastmod>
    </url>
    <url>
-      <loc>Topics/c_logotyp_wwf.html</loc>
-      <lastmod>2022-03-24T08:07:48Z</lastmod>
+      <loc>topics/t_assembling-2.html</loc>
+      <lastmod>2022-03-26T02:53:15Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/t_cleaning_steam-2.html</loc>
+      <lastmod>2022-03-26T02:53:15Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/t_cleaning_filter-2.html</loc>
+      <lastmod>2022-03-26T02:53:15Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/t_operating-3.html</loc>
+      <lastmod>2022-03-26T02:53:15Z</lastmod>
+   </url>
+   <url>
+      <loc>glossary/r_glossary.html</loc>
+      <lastmod>2022-03-26T02:53:15Z</lastmod>
+   </url>
+   <url>
+      <loc>glossary/r_glossary.html#g_brew_head</loc>
+      <lastmod>2022-03-26T02:53:15Z</lastmod>
+   </url>
+   <url>
+      <loc>glossary/r_glossary.html#g_filter_holder</loc>
+      <lastmod>2022-03-26T02:53:15Z</lastmod>
+   </url>
+   <url>
+      <loc>glossary/r_glossary.html#g_frothing_att</loc>
+      <lastmod>2022-03-26T02:53:15Z</lastmod>
+   </url>
+   <url>
+      <loc>glossary/r_glossary.html#g_portafilter</loc>
+      <lastmod>2022-03-26T02:53:15Z</lastmod>
+   </url>
+   <url>
+      <loc>glossary/r_glossary.html#g_steam_wand</loc>
+      <lastmod>2022-03-26T02:53:15Z</lastmod>
    </url>
 </urlset>
