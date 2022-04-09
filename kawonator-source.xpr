@@ -6,35 +6,8 @@
             <serialized xml:space="preserve">
                 <serializableOrderedMap>
                     <entry>
-                        <String>keys.context</String>
-                        <String>${pdu}/KW_docset.ditamap</String>
-                    </entry>
-                    <entry>
                         <String>scenario.associations</String>
                         <scenarioAssociation-array>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>KW_docset.ditamap</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>PDF2</String>
-                                        <String>WebHelp Responsive</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>DITAMAP</String>
-                                        <String>DITAMAP</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>KW100_consumer_guide.ditamap</String>
